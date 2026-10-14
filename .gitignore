@@ -1,0 +1,10 @@
+.vs/
+vcpkg_installed/
+**/x64/
+**/Debug/
+**/Release/
+*.user
+*.suo
+NASS_API_KEY
+american_fruit.csv
+fruit_input.*

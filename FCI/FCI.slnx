@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FCI/FCI.vcxproj" />
+  <Project Path="FCI.Tests/FCI.Tests.vcxproj" />
+</Solution>
